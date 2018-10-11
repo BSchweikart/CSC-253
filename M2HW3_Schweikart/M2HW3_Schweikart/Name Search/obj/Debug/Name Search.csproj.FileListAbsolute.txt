@@ -1,0 +1,10 @@
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name Search.csprojAssemblyReference.cache
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name_Search.nameForm.resources
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name Search.csproj.GenerateResource.cache
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name Search.csproj.CoreCompileInputs.cache
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\bin\Debug\Name Search.exe.config
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\bin\Debug\Name Search.exe
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\bin\Debug\Name Search.pdb
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name Search.exe
+E:\M2HW3_Schweikart\M2HW3_Schweikart\Name Search\obj\Debug\Name Search.pdb
